@@ -1,0 +1,6 @@
+D:\visual\expression\expression\bin\Debug\expression.exe.config
+D:\visual\expression\expression\bin\Debug\expression.exe
+D:\visual\expression\expression\bin\Debug\expression.pdb
+D:\visual\expression\expression\obj\Debug\expression.csprojResolveAssemblyReference.cache
+D:\visual\expression\expression\obj\Debug\expression.exe
+D:\visual\expression\expression\obj\Debug\expression.pdb
