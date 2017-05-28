@@ -1,0 +1,6 @@
+D:\visual\increement and decreement expression\increement and decreement expression\bin\Debug\increement and decreement expression.exe.config
+D:\visual\increement and decreement expression\increement and decreement expression\bin\Debug\increement and decreement expression.exe
+D:\visual\increement and decreement expression\increement and decreement expression\bin\Debug\increement and decreement expression.pdb
+D:\visual\increement and decreement expression\increement and decreement expression\obj\Debug\increement and decreement expression.csprojResolveAssemblyReference.cache
+D:\visual\increement and decreement expression\increement and decreement expression\obj\Debug\increement and decreement expression.exe
+D:\visual\increement and decreement expression\increement and decreement expression\obj\Debug\increement and decreement expression.pdb
